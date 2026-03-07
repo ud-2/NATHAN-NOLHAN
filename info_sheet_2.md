@@ -1,5 +1,5 @@
-# 🐍 Python Programming Exam - Level 2
-**Total Points:** 20 marks
+# **SHEET 1 - PYTHON**
+**Duration:** 2 Hours | **Total Points:** 20
 
 ---
 
