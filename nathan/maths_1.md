@@ -1,6 +1,5 @@
-# Mathematics Grade 9: Unit 1 Comprehensive Assessment
-**Time Allowed:** 60 minutes
-**Instructions:** Answer all questions. Show your working clearly. Do **not** use a calculator unless specified in the question.
+# MATHS - Sheet 1
+**Instructions:** Show your working clearly. Do **not** use a calculator unless specified in the question.
 
 ---
 
