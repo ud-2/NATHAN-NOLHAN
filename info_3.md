@@ -1,6 +1,6 @@
 # INFO - QUICK TEST 1
 
-**Instructions:** Write a short, complete Python script or function for each of the 20 prompts below. 
+**Instructions:** Write a short, complete Python script or function for each of the 10 prompts below. 
 
 ### Section 1: Basic I/O, Types, and Math (Questions 1-4)
 - **1.** Write a program that asks the user for their age and prints their year of birth. *(Assume the current year is 2026).*
