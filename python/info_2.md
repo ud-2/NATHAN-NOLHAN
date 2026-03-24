@@ -1,5 +1,5 @@
-# **SHEET 1 - PYTHON**
-**Duration:** 2 Hours | **Total Points:** 20
+# PYTHON - SHEET 2
+**Total Points:** 20
 
 ---
 

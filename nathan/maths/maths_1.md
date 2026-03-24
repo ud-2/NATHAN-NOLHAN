@@ -1,4 +1,4 @@
-# MATHS - Sheet 1
+# MATHS - SHEET 1
 **Instructions:** Show your working clearly. Do **not** use a calculator unless specified in the question.
 
 ---

@@ -1,6 +1,5 @@
-# COMPREHENSIVE ASSESSMENT: UNIT 1 (CELLS)
+# SCIENCE - SHEET 1
 **Total Marks:** 100  
-**Time Allowed:** 60 Minutes
 
 ---
 

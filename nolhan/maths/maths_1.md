@@ -1,6 +1,5 @@
-# Mathematics Grade 7: Unit 1 End-of-Unit Test
+# MATHS - SHEET 1
 **Topic:** Integers, Powers, and Roots  
-**Time Allowed:** 60 minutes  
 **Total Marks:** 50  
 
 **Instructions:**

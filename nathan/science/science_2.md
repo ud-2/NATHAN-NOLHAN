@@ -1,12 +1,9 @@
-# SCIENCE - Sheet 2
-**Time Allowed:** 2 Hours (120 Minutes)  
+# SCIENCE - SHEET 2
 **Total Marks:** 100
 
 **Instructions:**
 *   Show your working for calculations.
 *   Draw diagrams clearly with a pencil.
-
----
 
 ## SECTION A: BIOLOGY & EARTH SCIENCE (Unit 1)
 *(Total: 50 Marks)*

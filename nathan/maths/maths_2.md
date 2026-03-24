@@ -1,5 +1,4 @@
-# MATHS - Sheet 2
-**Time Allowed:** 2 hours  
+# MATHS - SHEET 2
 **Total Marks:** 80  
 **Instructions:**
 *   Show your working clearly. Marks are awarded for the correct method even if the final answer is wrong.

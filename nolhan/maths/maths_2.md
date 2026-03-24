@@ -1,4 +1,4 @@
-# MATHS - Sheet 2
+# MATHS - SHEET 2
 **Total Marks:** 60  
 **Instructions:**
 *   Show **all** your working. Marks are awarded for correct methods.

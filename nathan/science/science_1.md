@@ -1,8 +1,5 @@
-# GRAND ASSESSMENT: UNIT 1 (Photosynthesis & The Carbon Cycle)
+# SCIENCE - SHEET 1
 **Total Marks:** 100
-**Time Allowed:** 60 Minutes
-
----
 
 ## SECTION 1: PHOTOSYNTHESIS (Sub-unit 1.1)
 *Focus: The chemical reaction, reactants, products, and energy transformation.*
