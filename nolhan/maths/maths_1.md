@@ -55,8 +55,8 @@ a) A piece of wood is $120 \text{ cm}$ long. It is cut into two pieces in the ra
 b) A recipe for 4 people requires $200 \text{ g}$ of flour. How much flour is needed to make the same recipe for 10 people? **[2 marks]**
 
 **Question 7: Percentages (Unit 10)**  
-a) Calculate $10\%$ of \$450. **[1 mark]**  
-b) Calculate $15\%$ of $80 \text{ kg}$. **[2 marks]**  
+a) Calculate 10% of \$450. **[1 mark]**  
+b) Calculate 15% of $80 \text{ kg}$. **[2 marks]**  
 c) Express $24$ out of $40$ as a percentage. **[2 marks]**
 
 ---
@@ -87,9 +87,9 @@ b) The school pays with six \$100 bills. How much change should they receive? **
 
 **Question 12: Percentages Large and Small (Unit 10)**  
 A population of birds in a nature reserve was $4,500$ in the year 2020.  
-By 2023, the population had decreased by $18\%$.  
+By 2023, the population had decreased by 18%.  
 a) Calculate the bird population in 2023. **[3 marks]**  
-b) In 2024, the population increased by $5\%$ compared to 2023. Calculate the new population. **[2 marks]**
+b) In 2024, the population increased by 5% compared to 2023. Calculate the new population. **[2 marks]**
 
 **Question 13: Direct Proportion (Unit 12)**  
 $5$ identical metal blocks have a total mass of $16.2 \text{ kg}$.  
