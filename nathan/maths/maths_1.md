@@ -1,4 +1,4 @@
-# Mathematics Grade 9: Full Syllabus Mock Examination
+# MATHS 1
 **Time Allowed:** 1 hour 30 minutes  
 **Total Marks:** 100  
 **Instructions:** 
