@@ -1,142 +1,111 @@
-# MATHS - SHEET 1
-**Instructions:** Show your working clearly. Do **not** use a calculator unless specified in the question.
+# Mathematics Grade 9: Full Syllabus Mock Examination
+**Time Allowed:** 2 hours 30 minutes  
+**Total Marks:** 100  
+**Instructions:** 
+* Answer **all** questions in the spaces provided or on lined paper.
+* Show **all** your working clearly. Marks are awarded for correct methods even if the final answer is incorrect.
+* A scientific calculator is allowed.
 
 ---
 
-### PART 1: Irrational Numbers and Surds
+### SECTION A: Number and Proportion (25 Marks)
 
-**Question 1: Categorization**  
-Classify each of the following numbers as an **Integer**, a **Rational number** (that is not an integer), or an **Irrational number**:
-1. $\sqrt{121}$
-2. $\sqrt{15}$
-3. $\frac{22}{7}$
-4. $\sqrt[3]{27}$
-5. $0.121121112...$
-6. $\pi + 1$
-7. $-\sqrt{64}$
-8. $\sqrt{1.44}$
+**Question 1: Standard Form and Indices [5 marks]**
+a) Calculate $(4.2 \times 10^5) \times (3 \times 10^{-2})$. Give your answer in standard form. **[2]**
+b) Simplify fully, leaving your answer as a single power: $\frac{8^5 \times 8^{-2}}{8^4}$ **[2]**
+c) Evaluate $27^{\frac{1}{3}}$ (Hint: think about roots). **[1]**
 
-**Question 2: Surds vs Integers**  
-Explain, without calculating a decimal, why $\sqrt{50}$ is a surd but $\sqrt[3]{125}$ is an integer.
+**Question 2: Percentages, Rounding and Bounds[7 marks]**
+a) A car loses $12\%$ of its value every year. If the car was bought for $\$25,000$, calculate its value after 3 years. **[3]**
+b) The distance from Town A to Town B is $140 \text{ km}$, measured to the nearest $10 \text{ km}$. 
+   A train travels this distance in $2 \text{ hours}$, measured to the nearest hour.
+   Calculate the **maximum possible average speed** of the train in km/h. **[4]**
 
-**Question 3: Estimation (No Calculator)**  
-Find two consecutive integers that each of these numbers lies between:
-1. $7 < \sqrt{n} < 8$. Find a possible value for $n$.
-2. $\sqrt{110}$
-3. $\sqrt[3]{200}$
-4. $\sqrt{0.5}$
+**Question 3: Fractions[4 marks]**
+Calculate the exact value of the following. Show all your steps and give your answer as a mixed number in its simplest form:
+$$ 3\frac{1}{4} \div \left( 1\frac{2}{3} + \frac{5}{6} \right) $$
 
-**Question 4: Operations with Roots**  
-Simplify the following expressions by writing them as a single integer:
-1. $\sqrt{2} \times \sqrt{18}$
-2. $\sqrt{10} \times \sqrt{40}$
-3. $\frac{\sqrt{50}}{\sqrt{2}}$
-4. $(\sqrt{7} + 1)(\sqrt{7} - 1)$
-
-**Question 5: Reasoning**  
-Arun thinks that if you add any two irrational numbers, the result is always irrational. 
-1. Give an example of two irrational numbers whose sum is **rational**.
-2. Give an example of two irrational numbers whose sum is **irrational**.
+**Question 4: Ratio and Proportion [9 marks]**
+a) Alice, Bob, and Charlie share $\$840$ in the ratio $3 : 4 : 5$. How much more money does Charlie get compared to Alice? **[3]**
+b) The time ($T$ hours) it takes to paint a large building is **inversely proportional** to the number of painters ($P$). It takes 8 painters 45 hours to paint the building.
+   i) Write an equation linking $T$ and $P$. **[2]**
+   ii) How long would it take a team of 12 painters to do the same job? **[2]**
+c) A recipe for 8 people requires $300\text{g}$ of flour. How much flour is needed to make the same recipe for 14 people? **[2]**
 
 ---
 
-### PART 2: Standard Form
+### SECTION B: Algebra and Graphs (30 Marks)
 
-**Question 6: Conversions (Large Numbers)**  
-Write the following numbers in standard form ($A \times 10^n$):
-1. $45,000,000$
-2. $128.5$
-3. $7,003,000,000$
-4. Half a billion.
+**Question 5: Expressions and Formulae[8 marks]**
+a) Expand and simplify fully: $(3x - 2)(2x + 5)$ **[3]**
+b) Make $x$ the subject of the formula: $y = \frac{3x + 4}{2}$ **[2]**
+c) Make $r$ the subject of the formula: $A = \pi r^2 + 5$ **[3]**
 
-**Question 7: Conversions (Small Numbers)**  
-Write the following numbers in standard form:
-1. $0.000045$
-2. $0.00000000091$
-3. Three millionths.
-4. $0.0034 \times 10^2$ (Convert this to *correct* standard form).
+**Question 6: Equations and Inequalities[8 marks]**
+a) A cinema sells adult tickets for $\$12$ and child tickets for $\$8$. One evening, they sold exactly $100$ tickets and made $\$1040$. 
+   Let $a$ be the number of adult tickets and $c$ be the number of child tickets.
+   Construct a pair of simultaneous equations and solve them to find how many of each ticket were sold. **[5]**
+b) Solve the double inequality and list the integer values of $x$ **[3]**:
+   $$-5 \leq 2x - 1 < 7$$
 
-**Question 8: Ordering**  
-List these four numbers in order of size, starting with the **smallest**:  
-$w = 3.2 \times 10^{-4}$  
-$x = 9.5 \times 10^{-5}$  
-$y = 0.000302$  
-$z = 4.1 \times 10^{-4}$
+**Question 7: Sequences [6 marks]**
+Consider the sequence: $2, 7, 12, 17, 22, \dots$
+a) Write down the $n$th term of this sequence. **[2]**
+b) Is $104$ a term in this sequence? Show working to justify your answer. **[2]**
+c) Write down the first three terms of a sequence whose $n$th term is given by $n^2 + 3$. **[2]**
 
-**Question 9: Addition and Subtraction**  
-Calculate the following, giving your answer in standard form:
-1. $(4.5 \times 10^5) + (3.2 \times 10^5)$
-2. $(7.1 \times 10^{-3}) - (5 \times 10^{-4})$
-3. $(9.8 \times 10^8) + (2 \times 10^7)$
-
-**Question 10: Multi-step Problems**  
-1. A spaceship travels at $3 \times 10^4$ km/h. How far does it travel in $1,000$ hours? (Give your answer in standard form).
-2. The mass of a single atom is $1.67 \times 10^{-27}$ kg. Work out the mass of $10^6$ atoms.
-3. Explain why $0.45 \times 10^6$ is **not** in standard form and rewrite it correctly.
+**Question 8: Graphs[8 marks]**
+Line $L_1$ has the equation $3y - 6x = 12$.
+a) Rewrite this equation in the form $y = mx + c$. **[2]**
+b) Write down the gradient and the y-intercept of Line $L_1$. **[2]**
+c) Line $L_2$ is **parallel** to Line $L_1$ and passes through the point $(0, -5)$. Write down the equation of Line $L_2$. **[2]**
+d) Find the coordinates of the point where Line $L_1$ crosses the x-axis. **[2]**
 
 ---
 
-### PART 3: Indices (Powers)
+### SECTION C: Geometry and Measure (25 Marks)
 
-**Question 11: Negative Indices**  
-Write each of the following as a fraction in its simplest form:
-1. $5^{-2}$
-2. $10^{-3}$
-3. $2^{-5}$
-4. $3^{-1} + 4^{-1}$
+**Question 9: Pythagoras and Angles [8 marks]**
+a) A rectangular field has a length of $40\text{ m}$ and a width of $30\text{ m}$. Calculate the length of the diagonal path across the field. **[3]**
+b) The sum of the interior angles of a regular polygon is $1440^\circ$. 
+   i) How many sides does this polygon have? **[3]**
+   ii) What is the size of one exterior angle of this polygon? **[2]**
 
-**Question 12: Changing the Base**  
-Write each number as a power of the specified base:
-1. $81$ as a power of $3$.
-2. $\frac{1}{64}$ as a power of $2$.
-3. $1$ as a power of $7$.
-4. $125^{-1}$ as a power of $5$.
-5. $27^2$ as a power of $3$.
+**Question 10: Shapes and Measurements [6 marks]**
+A compound shape is formed by a rectangle and a semicircle attached to one of its sides.
+The rectangle measures $10\text{ cm}$ by $8\text{ cm}$. The semicircle is attached to the $8\text{ cm}$ side (so its diameter is $8\text{ cm}$).
+a) Calculate the total area of the compound shape. (Use $\pi = 3.142$). **[3]**
+b) Calculate the total perimeter of the compound shape. **[3]**
 
-**Question 13: Laws of Indices (Multiplication and Division)**  
-Simplify the following. Give your answer as a single power (e.g., $n^x$):
-1. $6^5 \times 6^{-2}$
-2. $10^{-4} \div 10^2$
-3. $a^7 \times a^{-7}$
-4. $12^{-3} \div 12^{-5}$
-5. $\frac{5^2 \times 5^{-4}}{5^3}$
+**Question 11: Position and Transformation [5 marks]**
+Triangle A has vertices at $(1, 1)$, $(3, 1)$, and $(1, 4)$.
+a) Triangle A is **translated** by the vector $\binom{-4}{2}$ to become Triangle B. Write down the coordinates of the vertices of Triangle B. **[2]**
+b) Triangle A is **enlarged** with a scale factor of $3$ from the center of enlargement $(0,0)$. Write down the coordinates of the new vertices. **[3]**
 
-**Question 14: Solving for $x$**  
-Find the value of $x$ in each equation:
-1. $2^x \times 2^3 = 2^9$
-2. $3^x \div 3^{-2} = 3^7$
-3. $5^x = \frac{1}{25}$
-4. $10^x \times 10^x = 10^{-8}$
-
-**Question 15: Power of a Power**  
-Simplify the following:
-1. $(3^2)^4$
-2. $(5^{-2})^3$
-3. $(2^{-3})^{-2}$
+**Question 12: Volume and Surface Area [6 marks]**
+A triangular prism has a cross-section of a right-angled triangle with a base of $6\text{ cm}$ and a height of $8\text{ cm}$. The hypotenuse of the triangle is $10\text{ cm}$. The length of the prism is $15\text{ cm}$.
+a) Calculate the volume of the prism. **[3]**
+b) Calculate the total surface area of the prism. **[3]**
 
 ---
 
-### PART 4: "Think Like a Mathematician" (Advanced)
+### SECTION D: Statistics and Probability (20 Marks)
 
-**Question 16: The Pattern**  
-Consider the decimal $0.10110111011110...$
-1. Does this decimal have a recurring pattern?
-2. Is it a rational or an irrational number? Justify your answer based on the definition of rational numbers.
+**Question 13: Probability [8 marks]**
+A bag contains $7$ red balls and $3$ green balls.
+A ball is chosen at random, its color is recorded, and it is **NOT replaced**. A second ball is then chosen.
+a) Draw a fully labeled tree diagram to represent all possible outcomes and their probabilities. **[4]**
+b) Calculate the probability that both balls chosen are red. **[2]**
+c) Calculate the probability that the two balls chosen are of **different** colors. **[2]**
 
-**Question 17: Generalizing Rules**  
-The rule for division states that $n^a \div n^b = n^{a-b}$.  
-Show that this rule works when indices are negative by writing out $2^2 \div 2^{-3}$ using fractions and then using the index law. Are the results the same?
+**Question 14: Statistics (Data and Interpretation) [12 marks]**
+A teacher records the test scores (out of 50) of 20 students:
+$12, 15, 18, 22, 23, 25, 25, 28, 29, 31, 32, 34, 35, 38, 41, 42, 45, 46, 48, 50$
+a) Construct an ordered stem-and-leaf diagram for this data. Include a key. **[4]**
+b) Find the **median** score. **[2]**
+c) Find the **range** of the scores. **[2]**
+d) The teacher groups the data into classes: $10-20, 20-30, 30-40, 40-50$.
+   Estimate the **mean** score using the midpoints of these grouped classes. **[4]**
 
-**Question 18: Algebraic Indices**  
-Given that $y = x^2 + x^{-2}$:
-1. Find the value of $y$ when $x = 4$. Write your answer as a mixed number.
-2. Find the value of $x$ when $y = 2.25$ (Hint: $x$ is a positive integer or simple fraction).
-
-**Question 19: Comparing Magnitudes**  
-Which is larger: $2^{30}$ or $3^{20}$?  
-(Hint: Try to write them as powers of the same index, for example, $(2^3)^{10}$ and $(3^2)^{10}$).
-
-**Question 20: Standard Form Challenge**  
-The speed of light is approximately $3 \times 10^8$ meters per second. 
-1. How many meters are in a "light-minute"?
-2. If the Sun is $1.5 \times 10^{11}$ meters from Earth, how many seconds does it take for sunlight to reach us? Write your answer in standard form.
+---
+**END OF EXAMINATION**
