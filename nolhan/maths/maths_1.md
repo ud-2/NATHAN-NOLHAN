@@ -1,8 +1,7 @@
-# CAMBRIDGE LOWER SECONDARY MATHEMATICS - GRADE 7
-## END OF YEAR MOCK EXAM - PAPER 1 (Non-Calculator)
+# MATHS 1
 
 **Time Allowed:** 1 hour 30 minutes
-**Total Marks:** 50
+**Total Marks:** 100
 **Instructions:** 
 * **NO calculator** is allowed for this paper.
 * Answer all questions. Show all your working out clearly.
@@ -78,68 +77,54 @@ A function machine is defined as:  **Input $\rightarrow$ Multiply by 3 $\rightar
 a) If the Input is $5$, what is the Output? **[1 mark]**
 b) If the Output is $17$, what was the Input? **[2 marks]**
 
-***
-***
+### SECTION E: Applied Number & Proportion (12 Marks)
 
-# CAMBRIDGE LOWER SECONDARY MATHEMATICS - GRADE 7
-## END OF YEAR MOCK EXAM - PAPER 2 (Calculator Allowed)
-
-**Time Allowed:** 1 hour 30 minutes
-**Total Marks:** 50
-**Instructions:** 
-* **A calculator IS allowed** for this paper.
-* Answer all questions. Show all your working out clearly. Even with a calculator, you must show the steps you took to reach your answer.
-
----
-
-### SECTION A: Applied Number & Proportion (12 Marks)
-
-**Question 1: Decimals in Context (Unit 4)**
+**Question 11: Decimals in Context (Unit 4)**
 A school buys 35 new math textbooks. Each textbook costs $\$14.75$. 
 The school is given a discount of $\$45.50$ on the total order.
 a) Calculate the total amount the school has to pay. **[3 marks]**
 b) The school pays with six $\$100$ bills. How much change should they receive? **[2 marks]**
 
-**Question 2: Percentages Large and Small (Unit 10)**
+**Question 12: Percentages Large and Small (Unit 10)**
 A population of birds in a nature reserve was $4,500$ in the year 2020.
 By 2023, the population had decreased by $18\%$.
 a) Calculate the bird population in 2023. **[3 marks]**
 b) In 2024, the population increased by $5\%$ compared to 2023. Calculate the new population. **[2 marks]**
 
-**Question 3: Direct Proportion (Unit 12)**
+**Question 13: Direct Proportion (Unit 12)**
 $5$ identical metal blocks have a total mass of $16.2 \text{ kg}$.
 Calculate the mass of $12$ of these metal blocks. **[2 marks]**
 
 ---
 
-### SECTION B: Geometry and Measure (16 Marks)
+### SECTION F: Geometry and Measure (16 Marks)
 
-**Question 4: Area and Converting Units (Unit 15)**
+**Question 14: Area and Converting Units (Unit 15)**
 a) A rectangular field has a length of $250 \text{ m}$ and a width of $160 \text{ m}$.
    i) Calculate the area of the field in square meters ($\text{m}^2$). **[2 marks]**
    ii) Convert your answer into hectares (ha). *(Recall: $1 \text{ ha} = 10,000 \text{ m}^2$)* **[2 marks]**
 b) Calculate the area of a triangle with a base of $15.4 \text{ cm}$ and a perpendicular height of $8.5 \text{ cm}$. **[2 marks]**
 
-**Question 5: Volume and Surface Area (Unit 15)**
+**Question 15: Volume and Surface Area (Unit 15)**
 A solid cuboid has the following dimensions: length = $12 \text{ cm}$, width = $4.5 \text{ cm}$, height = $6 \text{ cm}$.
 a) Calculate the volume of the cuboid. Include the correct units. **[3 marks]**
 b) Calculate the total surface area of the cuboid. **[4 marks]**
 
-**Question 6: Angles (Unit 5)**
+**Question 16: Angles (Unit 5)**
 Angles around a point sum to $360^{\circ}$. Four angles around a point are $105^{\circ}$, $82^{\circ}$, $x^{\circ}$, and $2x^{\circ}$.
 Form an equation and solve it to find the value of $x$. **[3 marks]**
 
 ---
 
-### SECTION C: Algebra & Graphs (12 Marks)
+### SECTION G: Algebra & Graphs (12 Marks)
 
-**Question 7: Constructing Equations (Unit 2)**
+**Question 17: Constructing Equations (Unit 2)**
 The length of a rectangle is $(3x + 2) \text{ cm}$. The width is $(x + 5) \text{ cm}$.
 a) Write down an expression for the perimeter of the rectangle. Simplify your expression fully. **[2 marks]**
 b) The perimeter of the rectangle is $54 \text{ cm}$. Form an equation and solve it to find the value of $x$. **[3 marks]**
 c) Using your value of $x$, calculate the exact length and width of the rectangle. **[2 marks]**
 
-**Question 8: Graphs of Functions (Unit 11)**
+**Question 18: Graphs of Functions (Unit 11)**
 Consider the function given by the equation: $y = 2x - 3$
 a) Complete the table of values below. (Copy the table on your paper). **[2 marks]**
 
@@ -151,9 +136,9 @@ b) On a Cartesian coordinate system, draw the $x$ and $y$ axes from $-5$ to $5$.
 
 ---
 
-### SECTION D: Statistics & Data (10 Marks)
+### SECTION H: Statistics & Data (10 Marks)
 
-**Question 9: Interpreting Results and Two-way Tables (Unit 16)**
+**Question 19: Interpreting Results and Two-way Tables (Unit 16)**
 80 students were asked what they did during the weekend. They had to choose between Sports, Reading, or Video Games.
 * $45$ of the students were boys.
 * $18$ boys chose Sports.
@@ -164,7 +149,7 @@ a) Draw and complete a two-way table to show all this information. **[4 marks]**
 b) How many girls chose Sports? **[1 mark]**
 c) What percentage of the total students chose Reading? **[2 marks]**
 
-**Question 10: Experimental Probabilities (Unit 13)**
+**Question 20: Experimental Probabilities (Unit 13)**
 A factory produces lightbulbs. An inspector tests $200$ lightbulbs and finds that $7$ of them are defective (broken).
 a) What is the experimental probability (relative frequency) that a lightbulb is defective? **[1 mark]**
 b) In a new batch of $5,000$ lightbulbs, how many would you expect to be defective based on the inspector's results? **[2 marks]**
