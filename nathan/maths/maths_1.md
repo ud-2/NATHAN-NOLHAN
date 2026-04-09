@@ -43,7 +43,7 @@ c) Make $r$ the subject of the formula: $A = \pi r^2 + 5$ **[3]**
 
 **Question 6: Equations and Inequalities[8 marks]**  
 a) A cinema sells adult tickets for $\$12$ and child tickets for \$8. One evening, they sold exactly $100$ tickets and made \$1040. 
-   Let $a$ be the number of adult tickets and $c$ be the number of child tickets. Construct a pair of simultaneous equations and solve them to find how many of each ticket were sold. **[5]**
+   Let $a$ be the number of adult tickets and $c$ be the number of child tickets. Construct a pair of simultaneous equations and solve them to find how many of each ticket were sold. **[5]**  
 b) Solve the double inequality and list the integer values of $x$ **[3]**:
    $$-5 \leq 2x - 1 < 7$$
 
