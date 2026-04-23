@@ -96,7 +96,8 @@ b) In a class of 30 students, 18 are girls. What percentage of the class are gir
 
 **Question 4: Percentage Applications**  
 a) A jacket originally costs \$80. It is on sale with a $20\%$ discount. Calculate the sale price. **[2 marks]**  
-b) The price of a train ticket increases from \$40 to \$46. Calculate the percentage increase. (Formula: Increase / Original $\times$ 100) **[2 marks]**
+b) The price of a train ticket increases from \$40 to \$46. **[2 marks]**
+```Calculate the percentage increase. (Formula: Increase / Original * 100)```
 
 ---
 
