@@ -1,4 +1,4 @@
-# SCIENCE 7
+# SCIENCE 3
 **Total Marks:** 100 Marks
 
 **Instructions:**
